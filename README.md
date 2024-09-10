@@ -92,7 +92,7 @@ Go back to your bot folder and copy the `.env.example` to `.env` and edit it :
 - `CLIENT_ID` is the ID of your discord bot application (Application ID).
 - `GUILD_ID` is the ID of your discord server.
 
-### 4. Start the Bot
+### 8. Start the Bot
 
 Finally, start your bot using the following command:
 
