@@ -1,3 +1,8 @@
 node_modules
 .env
 dist
+events.json
+*.png
+*.gif
+*.jpg
+*.jpeg
